@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Data Preparation for Speech-to-Text (ASR) Model Training
 
