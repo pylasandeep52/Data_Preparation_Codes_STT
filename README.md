@@ -42,7 +42,7 @@ Currently, the scripts support **10 Indian languages**:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pylasandeep52/Data_Preparation_STT.git
+   git clone https://github.com/pylasandeep52/Data_Preparation_Codes_STT.git
    cd Data_Preparation_Codes_STT
    ```
 2. Open the desired Jupyter notebook.
