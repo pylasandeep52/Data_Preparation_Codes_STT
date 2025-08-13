@@ -10,7 +10,7 @@ The files in this repository automate the process of downloading, preprocessing,
 
 ## 📂 Supported Data Sources
 The notebooks support extracting and preparing datasets from:
-- **Hugging Face** (e.g., AI4Bharat datasets)
+- **Hugging Face** e.g., AI4Bharat datasets
 - **Indic TTS**
 - **OpenSLR**
 - **Common Voice (CV_Corpus)**
